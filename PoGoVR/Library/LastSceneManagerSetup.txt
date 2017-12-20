@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/PokemonRepository/Scenes/wurmpie.unity
+  isLoaded: 1
+  isActive: 1
